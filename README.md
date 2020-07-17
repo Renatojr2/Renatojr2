@@ -27,7 +27,7 @@ Learn new Technologies.
 * CSS
 
 
-# MoonShot!!
-----
+# MoonShot!
+
 
 >![Moonshot](https://github.com/Renatojr2/Renatojr2/blob/master/assets/Moonshot_Thinking.png?raw=true)
