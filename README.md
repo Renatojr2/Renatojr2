@@ -7,8 +7,8 @@ feel free to look at my repositories
 
 
 ### I like :+1:
-Music, Play Guitar:metal:, Summer, Movies and Series, Read Book, Travel and 
-Learn new Things.
+Music, Play Guitar:metal:, Summer, Movies and Series, Read Books, Travel and 
+Learn new Technologies.
 
 ### Soft Skills
 * interpersonal communication
