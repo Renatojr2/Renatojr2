@@ -7,7 +7,7 @@ feel free to look at my repositories
 
 
 ### I like :+1:
-Music, Play Guitar:metal:, Summer, Movies and Series, Read Books, Travel and 
+Music, Play Guitar :metal:, Summer, Movies and Series, Read Books, Travel and 
 Learn new Technologies.
 
 ### Soft Skills
@@ -28,4 +28,4 @@ Learn new Technologies.
 
 
 # MoonShot!!
-![Moonshot](./blob/master/Moonshot_Thinking.png)
+>![Moonshot](./assets/Moonshot_Thinking.png)
