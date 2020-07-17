@@ -24,7 +24,7 @@ Learn new Technologies.
 * Git and GitHub
 * mongoDb
 * HTML5
-* CSS
+* CSS3
 
 
 # MoonShot!
