@@ -28,4 +28,4 @@ Learn new Technologies.
 
 
 # MoonShot!!
-<img src="./Renatojr2/Renatojr2/blob/master/Moonshot_Thinking.png" alt="MoonShot" >
+![Moonshot](./Moonshot_Thinking.png)
