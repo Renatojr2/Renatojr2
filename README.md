@@ -28,4 +28,4 @@ Learn new Technologies.
 
 
 # MoonShot!!
-![Moonshot](./Moonshot_Thinking.png)
+![Moonshot](./blob/master/Moonshot_Thinking.png)
