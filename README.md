@@ -28,4 +28,4 @@ Learn new Technologies.
 
 
 # MoonShot!!
->![Moonshot](assets/Moonshot_Thinking.png)
+>![Moonshot](https://github.com/Renatojr2/Renatojr2/blob/master/assets/Moonshot_Thinking.png?raw=true)
