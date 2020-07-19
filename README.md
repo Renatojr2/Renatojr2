@@ -21,10 +21,13 @@ Learn new Technologies.
 * NodeJs
 * ReactJs
 * React Native
+* VueJs
 * Git and GitHub
 * mongoDb
 * HTML5
 * CSS3
+* Kanban
+
 
 
 # MoonShot!
