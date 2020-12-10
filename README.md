@@ -18,6 +18,7 @@ Learn new Technologies.
 
 
 ### Hard Skills
+* Flutter
 * NodeJs
 * ReactJs
 * React Native
