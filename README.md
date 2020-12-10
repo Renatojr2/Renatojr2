@@ -35,3 +35,5 @@ Learn new Technologies.
 
 
 ![Moonshot](https://github.com/Renatojr2/Renatojr2/blob/master/assets/Moonshot_Thinking.png?raw=true)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Renatojr2)](https://github.com/anuraghazra/github-readme-stats)
