@@ -1,6 +1,6 @@
 ## Hi Guys 👋
 
-:books: I'm Full Stack developer and 
+:books: I'm Flutter developer and 
 English  
 :point_right: Welcome to my GitHub profile, 
 feel free to look at my repositories
